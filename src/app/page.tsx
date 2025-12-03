@@ -162,7 +162,7 @@ export default function LandingPage() {
               id: "1",
               name: "Coach Michael Stone",
               role: "Head Coach",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764788113741-livroexd.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764788440334-3ftoeexe.jpg",
               imageAlt: "Coach Michael Stone",
               socialLinks: [
                 {
@@ -246,7 +246,7 @@ export default function LandingPage() {
           tag="Get Started"
           title="Book Your Coaching Session"
           description="Ready to take your game to the next level? Contact us today to schedule your first session and start your journey to greatness."
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764788108547-tjza8p3h.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764788440540-mwjl8edb.jpg"
           imageAlt="Football coaching session"
           mediaPosition="right"
           inputPlaceholder="your@email.com"
